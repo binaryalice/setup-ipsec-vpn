@@ -1,8 +1,8 @@
 #!/bin/sh
-#
+#xixi
 # Script for automatic setup of an IPsec VPN server on Amazon Linux 2
 # Works on any dedicated server or virtual private server (VPS)
-#
+#嘻嘻
 # DO NOT RUN THIS SCRIPT ON YOUR PC OR MAC!
 #
 # The latest version of this script is available at:
